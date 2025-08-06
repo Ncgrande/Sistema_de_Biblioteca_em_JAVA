@@ -65,6 +65,33 @@ O sistema foi criado com fins acadêmicos e de aprendizado. Ele permite gerencia
 
 ---
 
+## 📌 Exemplo de Execução
+
+Ao executar o programa, o terminal exibirá algo como:
+
+```
+Livro 'O Senhor dos Anéis' adicionado à biblioteca!
+Livro 'Dom Casmurro' adicionado à biblioteca!
+Livro 'Clean Code' adicionado à biblioteca!
+
+=== LIVROS DISPONÍVEIS ===
+- O Senhor dos Anéis por J.R.R. Tolkien (R$ 120.0)
+- Dom Casmurro por Machado de Assis (R$ 50.0)
+- Clean Code por Robert C. Martin (R$ 150.0)
+
+Livro 'O Senhor dos Anéis' emprestado com sucesso!
+Livro 'O Senhor dos Anéis' não está disponível.
+Livro 'O Senhor dos Anéis' devolvido com sucesso!
+Desconto aplicado! Novo preço: R$ 135.0
+
+Valor total dos livros: R$ 305.0
+
+Livro encontrado: Dom Casmurro - Autor: Machado de Assis
+Idade do livro 'Dom Casmurro': 126 anos
+```
+
+---
+
 ## 👽 Feito por
 
 Estudante do 3º semestre de Análise e Desenvolvimento de Sistemas:
